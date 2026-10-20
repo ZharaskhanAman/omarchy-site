@@ -239,6 +239,14 @@
     "ogLocale": "bs_BA",
     "manual": false
   },
+  "kk": {
+    "name": "Қазақша",
+    "domain": "https://kk.omarchy.org",
+    "formatLocale": "kk-KZ",
+    "ogLocale": "kk_KZ",
+    "manual": false,
+    "flag": "KZ"
+  },
   "en-NZ": {
     "name": "English (NZ)",
     "domain": "https://omarchy.nz",
